@@ -28,6 +28,10 @@ h1, p {
     margin: auto;
 }
 
+img{
+  max-height: 65vh;
+}
+
 .image-text > h2 {
     position: absolute;   
     left: 50%;
